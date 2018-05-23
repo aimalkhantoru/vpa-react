@@ -1,0 +1,65 @@
+{
+  "OverAllProgress": 20,
+  "EquipmentNotes": "ABbcc",
+  "MilageCovered": 4,
+  "DaysRemaining": 5,
+  "DailyProgressHours": [
+    {
+      "Hours": 17,
+      "Date": "1/3",
+      "MinHoursPerDay": 10
+    }
+  ],
+  "DailyProgressMiles": [
+    {
+      "Mileage": 4,
+      "Date": "1/3",
+      "MinMilesPerDay": 10
+    }
+  ],
+  "BidPlanWorkPlanCrewData": [
+    {
+      "BidPlanHours": 122,
+      "WorkPlanHours": 17,
+      "CrewTypeId": 1,
+      "CrewType": "3 Man crew – Distribution"
+    },
+    {
+      "BidPlanHours": 400,
+      "WorkPlanHours": 0,
+      "CrewTypeId": 3,
+      "CrewType": "Flagger"
+    }
+  ],
+  "DailyWorkLogs": [
+    {
+      "Id": 6,
+      "WorkAssignmentId": 49,
+      "Mileage": 4,
+      "Date": "2018-03-01T12:06:41.000Z",
+      "CreatedBy": 1,
+      "Note": "Start After Start Date",
+      "LinePath": [],
+      "CrewTypes": []
+    }
+  ],
+  "SurveyData": {
+    "Points": [
+      {
+        "BidSubunitId": 72,
+        "Title": "Spans",
+        "Subunit": "low",
+        "Count": 0,
+        "Points": []
+      },
+      {
+        "BidSubunitId": 73,
+        "Title": "Spans",
+        "Subunit": "dddas",
+        "Count": 0,
+        "Points": []
+      }
+    ],
+    "Notes": []
+  }
+}

@@ -1,0 +1,184 @@
+[
+  {
+    "Id": 15437,
+    "Title": "Line 5 branches",
+    "Source": "KMZ",
+    "LineType": "Not Assigned",
+    "LineTypeId": 1,
+    "Milage": "0.494",
+    "JobsCount": 0,
+    "TotalHours": "0.00",
+    "LinePath": [
+      {
+        "Id": 24863,
+        "Path": [
+          [
+            33.6912811,
+            73.0601549
+          ],
+          [
+            33.6887816,
+            73.0622149
+          ],
+          [
+            33.6859963,
+            73.0610561
+          ],
+          [
+            33.6864605,
+            73.0645752
+          ]
+        ]
+      }
+    ],
+    "PointsCount": 4
+  },
+  {
+    "Id": 15436,
+    "Title": "Line 4 branches",
+    "Source": "KMZ",
+    "LineType": "Not Assigned",
+    "LineTypeId": 1,
+    "Milage": "0.296",
+    "JobsCount": 0,
+    "TotalHours": "0.00",
+    "LinePath": [
+      {
+        "Id": 24862,
+        "Path": [
+          [
+            33.6892101,
+            73.0482674
+          ],
+          [
+            33.6903527,
+            73.050456
+          ],
+          [
+            33.6913526,
+            73.0522585
+          ],
+          [
+            33.6916382,
+            73.0524731
+          ]
+        ]
+      }
+    ],
+    "PointsCount": 4
+  },
+  {
+    "Id": 15435,
+    "Title": "Line 3 branches",
+    "Source": "KMZ",
+    "LineType": "Not Assigned",
+    "LineTypeId": 1,
+    "Milage": "0.426",
+    "JobsCount": 0,
+    "TotalHours": "0.00",
+    "LinePath": [
+      {
+        "Id": 24861,
+        "Path": [
+          [
+            33.6865677,
+            73.0513573
+          ],
+          [
+            33.6882103,
+            73.0491257
+          ],
+          [
+            33.6900671,
+            73.0476236
+          ],
+          [
+            33.691424,
+            73.045392
+          ]
+        ]
+      }
+    ],
+    "PointsCount": 4
+  },
+  {
+    "Id": 15434,
+    "Title": "Line 2 branches",
+    "Source": "KMZ",
+    "LineType": "Not Assigned",
+    "LineTypeId": 1,
+    "Milage": "0.402",
+    "JobsCount": 0,
+    "TotalHours": "0.00",
+    "LinePath": [
+      {
+        "Id": 24860,
+        "Path": [
+          [
+            33.6804612,
+            73.0399418
+          ],
+          [
+            33.677997,
+            73.0416155
+          ],
+          [
+            33.67464,
+            73.0440187
+          ],
+          [
+            33.67514,
+            73.045392
+          ]
+        ]
+      }
+    ],
+    "PointsCount": 4
+  },
+  {
+    "Id": 15433,
+    "Title": "Line 1 branches",
+    "Source": "KMZ",
+    "LineType": "Not Assigned",
+    "LineTypeId": 1,
+    "Milage": "2.796",
+    "JobsCount": 0,
+    "TotalHours": "0.00",
+    "LinePath": [
+      {
+        "Id": 24859,
+        "Path": [
+          [
+            33.693852,
+            73.0648327
+          ],
+          [
+            33.6900671,
+            73.0577946
+          ],
+          [
+            33.685425,
+            73.0493832
+          ],
+          [
+            33.6797826,
+            73.0386543
+          ],
+          [
+            33.67564,
+            73.0303288
+          ],
+          [
+            33.6797112,
+            73.0277538
+          ],
+          [
+            33.6827824,
+            73.0253506
+          ]
+        ]
+      }
+    ],
+    "PointsCount": 7
+  }
+]

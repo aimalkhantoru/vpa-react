@@ -1,0 +1,131 @@
+.container-fluid{
+  height: auto;
+}
+.paragraph{
+  background: rgb(105,121,186);
+  height: 100vh;
+}
+h1 {
+  width: 100% !important;
+}
+.signin{
+  background: rgb(146,154,194);
+  height: 100vh;
+}
+.col-md-12{
+  padding: 0%;
+}
+.custom-paragraph{
+  margin: 5%;
+  color: white;
+}
+.custom-text{
+  color: white;
+}
+.login-style{
+  margin-top: 8%;
+  width: 50%;
+}
+/* .form-control{
+
+} */
+.login-page .blue-color {
+  float: right;
+  margin: 15px 0 0;
+  padding: 0 15px;
+}
+.custom-button{
+  float: right;
+  background: rgb(37,64,147);
+  color: white;
+  margin: 15px 0 0 0;
+}
+.loading-app{
+  margin-top: 30%;
+}
+.error-message {
+  color: red;
+  font-size: 12px;
+}
+.paragraph-style{
+  margin-top: 5%;
+}
+h3 {
+  padding: 0px !important;
+  font-size: 24px !important;
+}
+h1 {
+  font-size: 30px !important;
+}
+p {
+  color: white;
+}
+.apa-login-logo{
+  background: url("./APA-Logo.svg") no-repeat;
+  width: 49px;
+  height: 49px;
+  display: inline-block;
+  margin: 0 10px 0 0;
+}
+.apa-title{
+  color: #ffffff;
+  margin: 0 0 0 0;
+}
+.sub-title{
+  display: block;
+  margin: 0 0 0 0;
+}
+.user-icon{
+  color: #676767;
+  margin:0 0 0 0;
+}
+.password-icon{
+  color: #676767;
+  margin: 0 0 0 0;
+}
+
+
+@media (max-width: 1200px){
+  .login-style{
+    width: 100%;
+  }
+
+}
+@media (max-width: 1023px){}
+@media (max-width: 767px){
+  .custom-paragraph{
+    margin: 0;
+  }
+  .paragraph{
+    height: auto;
+    padding: 10px;
+  }
+  .paragraph-style {
+    display: none;
+  }
+  .logo-paragraph h3{
+    font-size: 16px !important;
+    margin: 8px 8px 0;
+  }
+  .signin {
+    height:auto !important;
+    padding: 0 20px 20px;
+  }
+  .login-parent{
+    height: 100vh;
+    background: rgb(146,154,194);
+  }
+}
+@media (max-width: 479px){
+  h1 {
+    width: 100% !important;
+  }
+  .apa-title{
+    font-size: 28px !important;
+  }
+  .apa-login-logo{
+    height: 49px;
+    width: 49px;
+  }
+
+}
